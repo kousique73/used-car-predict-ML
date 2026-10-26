@@ -98,5 +98,5 @@ The trained OLS regression model demonstrated strong predictive capabilities, ca
 
 
 
-
+[![Architecture diagram of kousique73/used-car-predict-ml](https://gitdiagram.com/kousique73/used-car-predict-ml/diagram.png)](https://gitdiagram.com/kousique73/used-car-predict-ml?utm_source=readme&utm_medium=picture)
 [![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/kousique73/used-car-predict-ml?utm_source=readme&utm_medium=badge)
