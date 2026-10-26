@@ -87,9 +87,16 @@ pip install -r requirements.txt # (If a requirements.txt is provided, otherwise 
    jupyter notebook
    ```
 2. Navigate to the `Final.ipynb` notebook to see the complete end-to-end pipeline.
-3. You can also dive into the specific phases by exploring the notebooks located within the `Exploratory Data Analysis`, `Feature Engineering`, and `Model Building` folders.
+3. You can also dive into the specific phases by exploring the notebooks located within the `Exploratory Data Analysis`, `Feature Engineering`, and `Model 
+
+Building` folders.
 
 ## Results
 The trained OLS regression model demonstrated strong predictive capabilities, capturing the majority of variance in used car prices based on features like brand category (e.g., Luxury vs Mid-Range), transmission type, car age, and engine capacity.
 
 ---
+
+
+
+
+[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/kousique73/used-car-predict-ml?utm_source=readme&utm_medium=badge)
